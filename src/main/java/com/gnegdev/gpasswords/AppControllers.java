@@ -32,11 +32,4 @@ public class AppControllers {
 
         alert.showAndWait();
     }
-/*
-    @FXML
-    protected void
-    @FXML
-    protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
-    }*/
 }
